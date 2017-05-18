@@ -8,7 +8,6 @@ fi
 
 export LANG=en_US.UTF-8
 
-/usr/bin/VBoxClient-all
 setxkbmap se
 xrdb -merge ~/.Xresources
 exec i3
